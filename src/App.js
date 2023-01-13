@@ -11,7 +11,7 @@ const  App=()=> {
     const options = {
       method: 'GET',
       headers: {
-        'X-RapidAPI-Key': 'e8ec584601msh2f64fb9b128e4bbp16ad13jsn67b1cfa8af3b',
+        'X-RapidAPI-Key': 'your api key',
         'X-RapidAPI-Host': 'game-of-thrones1.p.rapidapi.com'
       }
     };
